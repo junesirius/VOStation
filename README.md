@@ -137,9 +137,9 @@
 
 自定义主题色。
 
-- <span style="color: #96492d;">main-color（主题色）：用于页眉、页脚、侧边栏的背景色，及文章正文字体颜色，建议使用深色。本站使用色号为：![#96492d](https://via.placeholder.com/15/96492d/000000?text=+)`#96492d`</span>
-- <span style="color: #cc9368;">second-color（悬浮色）：当鼠标悬浮在超链接上时显示的颜色，建议使用浅色。本站使用色号为：![#cc9368](https://via.placeholder.com/15/cc9368/000000?text=+)`#cc9368`</span>
-- <span style="color: #5c2c22;">third-color（标题色）：首页及各文章页显示的文章标题颜色，建议选择深色。本站使用色号为：![#5c2c22](https://via.placeholder.com/15/5c2c22/000000?text=+)`#5c2c22`</span>
+- <span style="color: #4a2e48;">main-color（主题色）：用于页眉、页脚、侧边栏的背景色，及文章正文字体颜色，建议使用深色。本站使用色号为：![#4a2e48](https://via.placeholder.com/15/4a2e48/000000?text=+)`#4a2e48`</span>
+- <span style="color: #bcb8ce;">second-color（悬浮色）：当鼠标悬浮在超链接上时显示的颜色，建议使用浅色。本站使用色号为：![#bcb8ce](https://via.placeholder.com/15/bcb8ce/000000?text=+)`#bcb8ce`</span>
+- <span style="color: #4c394f;">third-color（标题色）：首页及各文章页显示的文章标题颜色，建议选择深色。本站使用色号为：![#4c394f](https://via.placeholder.com/15/4c394f/000000?text=+)`#4c394f`</span>
 
 #### [syntax.scss](https://github.com/junesirius/VOStation/tree/master/_sass/syntax.scss)
 
