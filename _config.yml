@@ -1,11 +1,11 @@
 # Jekyll configuration
 
-name: Viggo's Art
-name_en: Viggo Mortensen
+name: VO Station
+name_en: Viggo Mortensen, Orlando Bloom
 
 # url is currently only used for the RSS feed in feed.xml
 url: https://junesirius.github.io
-baseurl: "/ViggoArt"
+baseurl: "/VOStation"
 
 ## default date_format
 date_format: 
